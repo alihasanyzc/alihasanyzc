@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Ali+Hasan+Yazıcı" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there 👋, I'm Ali Hasan Yazıcı</h1>
 
 
 - 📚 I'm studying Computer Engineering at Pamukkale University (3/4)  
