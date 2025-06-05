@@ -25,5 +25,12 @@
 
 ## 📊 GitHub Stats
 
-- [View GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihasanyzc&show_icons=true&theme=default)
-- [View GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alihasanyzc)
+<details>
+  <summary>📈 View GitHub Stats</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alihasanyzc&show_icons=true&theme=default" alt="GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alihasanyzc" alt="GitHub Streak"/>
+  </p>
+</details>
